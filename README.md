@@ -5,7 +5,8 @@ A personal portfolio website showcasing my projects, skills, and experience as a
 
   ## Alive Website 
 
-  To see it in action, go to [https://your-username.github.io/your-repo-name/].  You can find your repository name at https://your-username.github.io.
+WEBSITE LINK
+https://PushkarKrPurve.github.io/Portfolio/.
 
   ## Made With 
 
